@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: cenn
+# key: cenn
+# --
+cerr << "${1:MMMMMMMMMMMMMMMM}" << endl;$0

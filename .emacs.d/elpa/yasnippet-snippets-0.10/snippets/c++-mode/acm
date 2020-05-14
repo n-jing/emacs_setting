@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: accumulate
+# key: acm
+# --
+auto sum = accumulate(begin(${1:vec}), end($1), 0);
+$0

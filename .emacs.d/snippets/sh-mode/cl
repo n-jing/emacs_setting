@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cl
+# key: cl
+# --
+RED='\033[31;1m'
+P='\033[35;1m'
+NC='\033[0m' # No Color

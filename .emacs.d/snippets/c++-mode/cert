@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: cert
+# key: cert
+# --
+
+cerr << ${1:itr} << " ";

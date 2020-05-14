@@ -1,0 +1,42 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/jing/Workspace/" . "test/")
+ ("/home/jing/" . "Workspace/")
+ ("/home/" . "jing/")
+ ("/" . "home/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/jing/Workspace/test/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "CMakeLists.txt"
+ "main.cpp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/jing/Workspace/test/build/" (23550 12004 535199 634000) "../" "./" "cmake_install.cmake" "CMakeCache.txt" "MAIN" "a.txt" "CMakeFiles/" "Makefile")
+
+ ("/home/jing/Workspace/test/" (23550 11875 467533 741000) "../" "./" "build/" "main.cpp" "my.cpp" "CMakeLists.txt")
+
+ ("/home/jing/Templates/" (23393 23914 583808 156000) "../" "./")
+
+ ("/home/jing/Workspace/Project/" (23538 26484 331724 964000) "../" "./" "grid-cutting/")
+
+ ("/home/jing/Workspace/" (23541 29869 858326 525000) "../" "model/" "./" "shapenetdata/" "python/" "intersection/" "grid_unclosed/" "Project/" "test/" "voxel_meshing.svn-wc/" ".git/" "grid/")
+
+ ("/home/" (23392 60027 851172 344000) "../" "./" "jing/")
+
+ ("/home/jing/" (23550 3290 419337 578000) "snap/" "../" ".nixnote/" ".ssh/" ".pki/" ".config/" ".backups/" "./" ".bash_history" ".gphoto/" ".mozilla/" "Videos/" ".rpmdb/" ".presage/" ".bash_logout" "Downloads/" ".emacs" ".nv/" "examples.desktop" ".mplayer/" ".viminfo" ".thunderbird/" ".sogouinput/" "Public/" ".local/" "Templates/" "Desktop/" ".nvidia-settings-rc" "win/" ".cache/" "Workspace/" ".ICEauthority" ".gnome/" "Documents/" ".gitconfig" ".bashrc" ".emacs.d/" ".sunpinyin/" ".dbus/" ".sudo_as_admin_successful" "Pictures/" ".profile" ".xinputrc" ".xsel.log" "Music/" ".gnupg/" ".subversion/" "texput.log" ".pam_environment" ".emacs~")
+
+ ("/home/jing/.emacs.d/" (23550 3384 543838 72000) "3rd/" "../" "./" "custom.el" ".mc-lists.el" "session.10a7ef37513d69a55c153378143055207400000025990071" "init.el" "ac-comphist.dat" "auto-save-list/" "snippets/" "lisp/" "recentf" "smex-items" "elpa/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

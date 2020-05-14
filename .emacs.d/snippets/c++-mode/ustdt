@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: ustdt
+# key: ustdt
+# --
+
+using namespace std;

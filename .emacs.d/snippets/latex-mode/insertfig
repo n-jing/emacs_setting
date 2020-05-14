@@ -1,0 +1,24 @@
+# -*- mode: snippet -*-
+# name: insertfig
+# key: insertfig
+# --
+\begin{figure}[htbp]
+  \centering
+  \subfigure[]{
+  \begin{minipage}[t]{0.45\linewidth}
+  \centering
+  \includegraphics[width=4.5cm]{$1}
+  %\caption{fig1}
+  \end{minipage}%
+  }%
+  \subfigure[]{
+  \begin{minipage}[t]{0.45\linewidth}
+  \centering
+  \includegraphics[width=4.5cm]{$2}
+  %\caption{fig2}
+  \end{minipage}%
+  }%
+  \centering
+  \caption{bar}
+\end{figure}
+$0

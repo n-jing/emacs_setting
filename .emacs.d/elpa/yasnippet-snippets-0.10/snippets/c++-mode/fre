@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: for_each
+# key: fre
+# --
+for_each(begin(${1:container}), end($1), [](${2:auto itr}) {
+  ${3:cerr << itr << " ";}
+});
+${0:cerr << endl;}

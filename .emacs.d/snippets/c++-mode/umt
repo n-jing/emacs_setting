@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: umt
+# key: umt
+# --
+using namespace zjucad::matrix;

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: wtf
+# key: wtf
+# --
+static int id_file = 0;
+++id_file;
+string str_f = "${1:tri}_" + to_string(id_file) + ".vtk";
+write_to_vtk(vector<MatrixXd>(1, ${2:tri}), str_f.c_str());

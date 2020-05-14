@@ -1,0 +1,552 @@
+;;; -*- coding: utf-8 -*-
+(("/home/jing/.bashrc" . 3820)
+ ("/home/jing/MarvelPhysics/src/solver/CMakeLists.txt" . 103)
+ ("/home/jing/MarvelPhysics/CMakeLists.txt" . 2267)
+ ("/home/jing/Desktop/test/src/main.cpp" . 119)
+ ("/home/jing/Physika/Engine/Dynamics/FemSystem/interpolate.h" . 5421)
+ ("/home/jing/Physika/Engine/Dynamics/FemSystem/FemElasticityModuleFast.h" . 308)
+ ("/home/jing/Physika/Engine/Dynamics/FemSystem/FemElasticityModuleFast.inl" . 5200)
+ ("/home/jing/MarvelPhysics/src/solver/linear_solver/"
+  (dired-filename . "/home/jing/MarvelPhysics/src/solver/linear_solver/.."))
+ ("/home/jing/MarvelPhysics/src/solver/"
+  (dired-filename . "/home/jing/MarvelPhysics/src/solver/CMakeLists.txt"))
+ ("/home/jing/MarvelPhysics/app/mass_spring/"
+  (dired-filename . "/home/jing/MarvelPhysics/app/mass_spring/.."))
+ ("/home/jing/MarvelPhysics/app/"
+  (dired-filename . "/home/jing/MarvelPhysics/app/fem_demo"))
+ ("/home/jing/MarvelPhysics/app/fem_demo/"
+  (dired-filename . "/home/jing/MarvelPhysics/app/fem_demo/fem_demo.cc"))
+ ("/home/jing/MarvelPhysics/run/"
+  (dired-filename . "/home/jing/MarvelPhysics/run/fem_demo.py"))
+ ("/home/jing/MarvelPhysics/app/fem_demo/fem_demo.cc" . 2904)
+ ("/home/jing/"
+  (dired-filename . "/home/jing/.accelerate"))
+ ("/home/jing/MarvelPhysics/"
+  (dired-filename . "/home/jing/MarvelPhysics/app"))
+ ("/home/jing/MarvelPhysics/src/problem/"
+  (dired-filename . "/home/jing/MarvelPhysics/src/problem/integrated_problem"))
+ ("/home/jing/MarvelPhysics/src/problem/integrated_problem/elas_fem_problem.h" . 617)
+ ("/home/jing/MarvelPhysics/src/problem/integrated_problem/"
+  (dired-filename . "/home/jing/MarvelPhysics/src/problem/integrated_problem/elas_fem_problem.h"))
+ ("/home/jing/MarvelPhysics/src/problem/integrated_problem/CMakeLists.txt" . 128)
+ ("/home/jing/MarvelPhysics/src/problem/integrated_problem/embedded_elas_fem_problem.cc" . 410)
+ ("/home/jing/MarvelPhysics/src/problem/integrated_problem/embedded_elas_fem_problem.h" . 928)
+ ("/home/jing/MarvelPhysics/run/fem_demo.py" . 397)
+ ("/home/jing/MarvelPhysics/src/"
+  (dired-filename . "/home/jing/MarvelPhysics/src/model"))
+ ("/home/jing/MarvelPhysics/src/model/"
+  (dired-filename . "/home/jing/MarvelPhysics/src/model/fem"))
+ ("/home/jing/MarvelPhysics/src/model/fem/"
+  (dired-filename . "/home/jing/MarvelPhysics/src/model/fem/nanoflann"))
+ ("/home/jing/MarvelPhysics/src/problem/integrated_problem/elas_fem_problem.cc" . 5381)
+ ("/home/jing/MarvelPhysics/src/common/"
+  (dired-filename . "/home/jing/MarvelPhysics/src/common/framework.h"))
+ ("/home/jing/Workspace/Project/animation/doc/requirement.tex" . 29)
+ ("/home/jing/tetrahedron/src/"
+  (dired-filename . "/home/jing/tetrahedron/src/tetrahedron"))
+ ("/home/jing/tetrahedron/src/tetrahedron/"
+  (dired-filename . "/home/jing/tetrahedron/src/tetrahedron/inc"))
+ ("/home/jing/tetrahedron/src/tetrahedron/src/simple_vtk.cpp" . 13165)
+ ("/home/jing/tetrahedron/src/tetrahedron/inc/simple_vtk.h" . 1413)
+ ("/home/jing/tetrahedron/src/tetrahedron/src/"
+  (dired-filename . "/home/jing/tetrahedron/src/tetrahedron/src/mesh.cpp"))
+ ("/home/jing/tetrahedron/run/"
+  (dired-filename . "/home/jing/tetrahedron/run/tet.sh"))
+ ("/home/jing/tetrahedron/src/tetrahedron/src/mesh_cut.cpp" . 396)
+ ("/home/jing/tetrahedron/src/tetrahedron/src/mesh.cpp" . 8022)
+ ("/home/jing/tetrahedron/src/tetrahedron/src/tetrahedron_interface.cpp" . 880)
+ ("/home/jing/tetrahedron/run/tet.sh" . 308)
+ ("/home/jing/tetrahedron/src/tetrahedron/inc/mesh.h" . 768)
+ ("/home/jing/tetrahedron/src/tetrahedron/inc/"
+  (dired-filename . "/home/jing/tetrahedron/src/tetrahedron/inc/mesh.h"))
+ ("/home/jing/tetrahedron/"
+  (dired-filename . "/home/jing/tetrahedron/build"))
+ ("/home/jing/tetrahedron/build/"
+  (dired-filename . "/home/jing/tetrahedron/build/bin"))
+ ("/home/jing/tetrahedron/src/tetrahedron/src/triangle.cpp" . 1517)
+ ("/home/jing/Desktop/test/CMakeLists.txt" . 82)
+ ("/home/jing/Desktop/test/build/"
+  (dired-filename . "/home/jing/Desktop/test/build/bin"))
+ ("/home/jing/usr/Jinglib/inc/"
+  (dired-filename . "/home/jing/usr/Jinglib/inc/manifold_check.hpp"))
+ ("/home/jing/Workspace/Project/exact_mesh_generation/src/mesh.cpp" . 215)
+ ("/home/jing/Workspace/Project/mesh_generation_master/src/fread_mesh.cpp" . 387)
+ ("/home/jing/Workspace/Project/mesh_generation_master/src/mesh.cpp" . 4742)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/model_check/watertight_check.cpp" . 509)
+ ("/home/jing/Workspace/Project/mesh_mass_spring/CMakeLists.txt" . 38)
+ ("/home/jing/Workspace/Project/mesh_mass_spring/src/CMakeLists.txt" . 29)
+ ("/home/jing/Desktop/test/src/CMakeLists.txt" . 269)
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/write_to_file.h" . 4942)
+ ("/home/jing/Desktop/test/build/file.txt" . 36)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/model_check/write_check.cpp" . 231)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/model_check/mc.cpp" . 663)
+ ("/home/jing/Workspace/Project/cut-cell_generation/build/"
+  (dired-filename . "/home/jing/Workspace/Project/cut-cell_generation/build/bin"))
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/model_check/manifold_check.h" . 2336)
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/cell_generation/"
+  (dired-filename . "/home/jing/Workspace/Project/cut-cell_generation/inc/cell_generation/.."))
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/hash_key.h" . 1538)
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/"
+  (dired-filename . "/home/jing/Workspace/Project/cut-cell_generation/inc/half_edge"))
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/half_edge/"
+  (dired-filename . "/home/jing/Workspace/Project/cut-cell_generation/inc/half_edge/half_edge.h"))
+ ("/home/jing/usr/Jinglib/Doxyfile" . 2599)
+ ("/home/jing/usr/Jinglib/CMakeLists.txt" . 38)
+ ("/home/jing/usr/Jinglib/README.md" . 53)
+ ("/home/jing/usr/shell/new_project" . 224)
+ ("/home/jing/usr/shell/mcmaket" . 248)
+ ("/home/jing/usr/shell/doc_cmake" . 247)
+ ("/home/jing/.emacs.d/snippets/c++-mode/fco" . 47)
+ ("/home/jing/Workspace/Project/cut-cell_generation/CMakeLists.txt" . 110)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/model_check/CMakeLists.txt" . 1052)
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/aabb_tree.h" . 1689)
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/aabb_tree.hpp" . 1431)
+ ("/home/jing/Workspace/Project/cut-cell_generation/"
+  (dired-filename . "/home/jing/Workspace/Project/cut-cell_generation/inc"))
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/construct_face.cpp" . 2499)
+ ("/home/jing/Workspace/Project/cut-cell_generation/model/"
+  (dired-filename . "/home/jing/Workspace/Project/cut-cell_generation/model/3-torus.obj"))
+ ("/home/jing/Workspace/Project/cut-cell_generation/doc/framework.cpp" . 2387)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/CMakeLists.txt" . 397)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/plane.cpp" . 2284)
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/cell_generation/plane.h" . 1587)
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/cell_generation/cell_generation.h" . 1460)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/half_edge/half_edge_test.cpp" . 1366)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/half_edge/CMakeLists.txt" . 273)
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/cell_generation/face.h" . 686)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/face_vert.cpp" . 2534)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/vertex.cpp" . 525)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/cell.cpp" . 6540)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/construct_vert_queue.cpp" . 4939)
+ ("/home/jing/Workspace/Project/cut-cell_generation/build/log" . 76728)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/construct_cell.cpp" . 3561)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/cell_generation.cpp" . 3908)
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/cell_generation/cell.h" . 727)
+ ("/home/jing/Workspace/Project/cut-cell_generation/build/extract_time.sh" . 27)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/model_check/"
+  (dired-filename . "/home/jing/Workspace/Project/cut-cell_generation/src/model_check/mc.cpp"))
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/cell_plane.cpp" . 2093)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/construct_cell_test.cpp" . 611)
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/function_time.h" . 2132)
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/model_check/watertight_check.h" . 84)
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/model_check/kd_tree.hpp" . 5970)
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/model_check/"
+  (dired-filename . "/home/jing/Workspace/Project/cut-cell_generation/inc/model_check/.."))
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/process_bar.h" . 596)
+ ("/home/jing/Workspace/Project/libigl/include/igl/AABB.h" . 16224)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/"
+  (dired-filename . "/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/.."))
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/half_edge/"
+  (dired-filename . "/home/jing/Workspace/Project/cut-cell_generation/src/half_edge/half_edge.cpp"))
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/"
+  (dired-filename . "/home/jing/Workspace/Project/cut-cell_generation/src/.."))
+ ("/home/jing/Workspace/Project/ComputePlatform/"
+  (dired-filename . "/home/jing/Workspace/Project/ComputePlatform/api.md"))
+ ("/home/jing/Workspace/Project/hexahedron/docker-compose.yml" . 192)
+ ("/home/jing/Workspace/Project/half_edge_lab/examples/"
+  (dired-filename . "/home/jing/Workspace/Project/half_edge_lab/examples/.."))
+ ("/home/jing/Workspace/Project/half_edge_lab/include/"
+  (dired-filename . "/home/jing/Workspace/Project/half_edge_lab/include/.."))
+ ("/home/jing/Workspace/Project/half_edge_lab/"
+  (dired-filename . "/home/jing/Workspace/Project/half_edge_lab/.."))
+ ("/home/jing/Workspace/Project/"
+  (dired-filename . "/home/jing/Workspace/Project/half_edge_lab_fxz"))
+ ("/home/jing/Workspace/Project/half_edge_lab/include/container.h" . 7517)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/include/container.h" . 9585)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_jym/hjlib/half_edge/include/container.h" . 5380)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/half_edge_for_app/include/IO.hh" . 159)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/include"))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/include/half_edge.h"))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/include/hj_symmetry_half_edge.h" . 6169)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/examples/ex2/main.cpp" . 141)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/examples/ex2/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/examples/ex2/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/examples/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/examples/ex0"))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/examples/ex0/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/examples/ex0/main.cpp"))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/examples/ex0/main.cpp" . 3211)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/include/half_edge.h" . 6050)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/include/builder.h" . 499)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/examples/ex_localm/main.cpp" . 384)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/examples/ex_localm/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/examples/ex_localm/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/examples/ex_rw/main.cpp" . 4694)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/examples/ex_rw/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/examples/ex_rw/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/examples/ex_tq/main.cpp" . 5399)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/examples/ex_tq/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/examples/ex_tq/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/examples/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/examples/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/model/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/model/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/ANN_c/ANN_c.h" . 1329)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/ANN_c/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/ANN_c/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/data_tree/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/data_tree/include/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/data_tree/sample/main.cpp" . 564)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/data_tree/sample/mat_data_tree.h" . 3134)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/data_tree/sample/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/data_tree/sample/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/data_tree/src/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/data_tree/src/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/data_tree/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/data_tree/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/function/include/function.h" . 3297)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/function/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/function/include/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/function/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/function/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/maxima/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/maxima/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/3rd/opts/mesquite/official/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/3rd/opts/mesquite/official/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/3rd/opts/mesquite/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/3rd/opts/mesquite/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/3rd/opts/verdict/official/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/3rd/opts/verdict/official/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/3rd/opts/verdict/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/3rd/opts/verdict/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/3rd/opts/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/3rd/opts/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/3rd/deps/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/3rd/deps/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/src/container/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/src/container/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/src/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/src/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/include/container.h" . 8215)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/include/usr_session.h" . 5221)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/half_edge/include/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/half_edge/include/half_edge_add_face.h" . 8220)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/vtk/include/io.h" . 2763)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/vtk/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/vtk/include/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/vtk/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/vtk/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/maxima/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/maxima/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/ANN_c/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/ANN_c/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/function/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/function/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/geometry/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/geometry/include/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/geometry/src/curvature.cpp" . 3121)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/geometry/src/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/geometry/src/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/geometry/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/geometry/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/math/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/math/include/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/math/demo/rotation_demo.cpp" . 443)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/math/demo/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/math/demo/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/math/src/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/math/src/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/math/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/math/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/math_func/include/math_func.h" . 3164)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/math_func/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/math_func/include/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/math_func/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/math_func/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/sparse/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/sparse/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/zjucad/ptree/include/ptree.h" . 3094)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/zjucad/ptree/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/zjucad/ptree/include/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/zjucad/ptree/src/ptree.cpp" . 5756)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/zjucad/ptree/src/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/zjucad/ptree/src/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/zjucad/ptree/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/zjucad/ptree/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/zjucad/optimizer/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/zjucad/optimizer/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/zjucad/matrix/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/zjucad/matrix/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/zjucad/linear_solver/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/zjucad/linear_solver/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/zjucad/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/zjucad/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/mk_ptree/mk_ptree.h" . 3230)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/mk_ptree/mk_ptree.cpp" . 378)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/mk_ptree/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/mk_ptree/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/arg_opts/include/arg_opts.h" . 3991)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/arg_opts/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/arg_opts/include/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/arg_opts/src/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/arg_opts/src/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/arg_opts/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/arg_opts/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/data_tree/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/data_tree/include/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/data_tree/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/data_tree/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/hjlib/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/mesh_function/mesh_function.h" . 1542)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/mesh_function/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/mesh_function/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/util/include/container_operation.h" . 797)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/util/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/util/include/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/util/src/util.cpp" . 3458)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/util/src/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/util/src/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/util/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/util/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/algorithm/include/equation.h" . 1788)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/algorithm/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/algorithm/include/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/algorithm/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/algorithm/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/sxxlib/tri_sub/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/sxxlib/tri_sub/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/sxxlib/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/sxxlib/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_cy/zjucad/ptree/include/ptree.h" . 2945)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_cy/zjucad/ptree/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_cy/zjucad/ptree/include/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_cy/zjucad/ptree/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_cy/zjucad/ptree/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_cy/zjucad/optimizer/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_cy/zjucad/optimizer/include/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_cy/zjucad/optimizer/example/exp.cpp" . 3930)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_cy/zjucad/optimizer/example/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_cy/zjucad/optimizer/example/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_cy/zjucad/optimizer/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_cy/zjucad/optimizer/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_cy/zjucad/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_cy/zjucad/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_cy/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_cy/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_jym/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_jym/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/half_edge_for_app/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/half_edge_for_app/include/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/half_edge_for_app/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/half_edge_for_app/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/mesh/include/mesh.h" . 646)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/mesh/include/io.h" . 879)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/mesh/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/mesh/include/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/mesh/src/io.cpp" . 8838)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/mesh/src/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/mesh/src/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/mesh/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/mesh/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/jtflib/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/for_fxz/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/JinHUANG/zjucad/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/JinHUANG/zjucad/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/JinHUANG/usr/share/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/JinHUANG/usr/share/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/JinHUANG/usr/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/JinHUANG/usr/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/JinHUANG/hjlib/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/JinHUANG/hjlib/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/JinHUANG/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/JinHUANG/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/4zsw/sxxlib/libgmm/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/4zsw/sxxlib/libgmm/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/4zsw/sxxlib/libremesh/halfedge.h" . 2643)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/4zsw/sxxlib/libremesh/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/4zsw/sxxlib/libremesh/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/4zsw/sxxlib/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/4zsw/sxxlib/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/4zsw/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/4zsw/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/branches/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/packages/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/packages/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/3rd/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/3rd/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/.."))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/vtk/include/"
+  (dired-filename . "/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/vtk/include/vtk.h"))
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/vtk/include/vtk.h" . 6963)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/vtk/include/io.h" . 3068)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/zjucad/vers_comp/include/petsc.h" . 1595)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/trunk/hjlib/data_tree/include/io.h" . 3197)
+ ("/home/jing/Workspace/Project/geo_sim_sdk/branches/half_edge_for_app/include/half_edge.h" . 5161)
+ ("/home/jing/Workspace/Project/new_mandoline/mandoline/"
+  (dired-filename . "/home/jing/Workspace/Project/new_mandoline/mandoline/build"))
+ ("/home/jing/Workspace/Project/new_mandoline/mandoline/diff.log" . 78943)
+ ("/home/jing/Workspace/Project/cut-cell_generation/model/torus_s.obj" . 958)
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/cell_generation/edge.h" . 684)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/construct_edge.cpp" . 152)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/vertex_queue.cpp" . 20510)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/construct_cut_face.cpp" . 1353)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/edge_vert.cpp" . 2068)
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/rational_number/rational_number.h" . 398)
+ ("/home/jing/Workspace/Project/cut-cell_generation/inc/rational_number/rational_vec.h" . 655)
+ ("/usr/include/c++/7/bits/predefined_ops.h" . 7076)
+ ("/home/jing/Workspace/Project/cut-cell_generation/thirdparty/predicates.h" . 52)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/edge.cpp" . 397)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/face.cpp" . 958)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/cell_generation/union_find_set_test.cpp" . 438)
+ ("/home/jing/Workspace/Project/cut-cell_generation/model/sphere.obj" . 169)
+ ("/home/jing/Workspace/Project/cut-cell_generation/build/src/cell_generation/CMakeFiles/cell_test.dir/build.make" . 1830)
+ ("/home/jing/Workspace/Project/cut-cell_generation/doc/"
+  (dired-filename . "/home/jing/Workspace/Project/cut-cell_generation/doc/.."))
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/rational_number/CMakeLists.txt" . 744)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/rational_number/rational_vec.cpp" . 70)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/rational_number/rational_vec_test.cpp" . 113)
+ ("/home/jing/Workspace/Project/cut-cell_generation/src/rational_number/rational_number.cpp" . 136)
+ ("/home/jing/.emacs.d/snippets/c++-mode/wtf" . 47)
+ ("/home/jing/Documents/doc/report/high_dimensional_euclidean_embedding/high_d_embedding.tex" . 4957)
+ ("/home/jing/usr/shell/beamer_template.tex" . 1921)
+ ("/home/jing/Documents/doc/report/high_dimensional_euclidean_embedding/"
+  (dired-filename . "/home/jing/Documents/doc/report/high_dimensional_euclidean_embedding/.."))
+ ("/home/jing/Documents/doc/report/mandoline_test/"
+  (dired-filename . "/home/jing/Documents/doc/report/mandoline_test/.."))
+ ("/home/jing/Documents/doc/report/"
+  (dired-filename . "/home/jing/Documents/doc/report/Geometry_aware_Bases"))
+ ("/home/jing/Documents/doc/report/Geometry_aware_Bases/"
+  (dired-filename . "/home/jing/Documents/doc/report/Geometry_aware_Bases/my.tex"))
+ ("/home/jing/Documents/doc/report/Geometry_aware_Bases/my.tex" . 2878)
+ ("/home/jing/Documents/doc/report/mandoline_test/mandoline.tex" . 8594)
+ ("/home/jing/Documents/doc/report/mandoline_test/mandoline_test.tex" . 5756)
+ ("/home/jing/Workspace/test_data/mandoline_gui/input/sphere2-res.obj" . 87375)
+ ("/home/jing/Workspace/test_data/mandoline_gui/input/sphere2-res-non-reuse.obj" . 48771)
+ ("/home/jing/Workspace/test_data/mandoline_gui/run_mandoline_gui.sh" . 729)
+ ("/home/jing/Workspace/test_data/mandoline_gui/input/sphere2.obj" . 56)
+ ("/home/jing/Workspace/test_data/mandoline_gui/input/sphere_without_normal.obj" . 71)
+ ("/home/jing/Workspace/model/shapenet-models-OBJ/select_watergiht_manifold.sh" . 454)
+ ("/home/jing/Workspace/Project/cut-cell_generation/doc/implement_method_fang.tex" . 4225)
+ ("/home/jing/.emacs.d/snippets/c++-mode/nl" . 45)
+ ("/home/jing/Workspace/Project/mesh_generation_master/src/half_edge.cpp" . 9006)
+ ("/home/jing/.emacs.d/snippets/cmake-mode/tp" . 45)
+ ("/home/jing/.emacs.d/snippets/cmake-mode/tid" . 47)
+ ("/home/jing/.emacs.d/snippets/cmake-mode/tlb" . 37)
+ ("/home/jing/.emacs.d/snippets/c++-mode/inlt" . 55)
+ ("/home/jing/Workspace/Project/cut-cell_generation/doc/doc.tex" . 15632)
+ ("/home/jing/Workspace/model/common_model/convert_obj_to_vtk.sh" . 131)
+ ("/home/jing/Workspace/Project/hexahedron/extract_output.sh" . 1011)
+ ("/home/jing/Workspace/Project/hexahedron/Dockerfile" . 113)
+ ("/home/jing/Workspace/Project/hexahedron/run.sh" . 474)
+ ("/home/jing/Workspace/Project/ComputePlatform/SSHPortMapper/docker-compose.yml" . 523)
+ ("/home/jing/Workspace/shell/general-polycube-bin/run.sh" . 270)
+ ("/home/jing/Workspace/Project/hexahedron/docker_makefile" . 5143)
+ ("/home/jing/Workspace/Project/ComputePlatform/app/hex/app/run.sh" . 1926)
+ ("/home/jing/Workspace/Project/hexahedron/quality_test.sh" . 478)
+ ("/home/jing/Workspace/shell/general-polycube-bin/docker_makefile" . 6628)
+ ("/home/jing/Workspace/Project/cut-cell_generation/doc/exact_tri_tri_intersection.tex" . 4354)
+ ("/home/jing/Workspace/Project/cut-cell_generation/model/bunny.obj" . 2139941)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/inc/mesh.h" . 377)
+ ("/home/jing/Workspace/Project/ComputePlatform/docker-compose.yml" . 432)
+ ("/home/jing/Workspace/Project/quad_parameter_fix/"
+  (dired-filename . "/home/jing/Workspace/Project/quad_parameter_fix/app"))
+ ("/home/jing/Workspace/Project/quad_parameter_fix/app/run_local.sh" . 553)
+ ("/home/jing/Workspace/Project/quad_parameter_fix/app/quad.sh" . 1258)
+ ("/home/jing/Workspace/Project/quad_parameter_fix/app/"
+  (dired-filename . "/home/jing/Workspace/Project/quad_parameter_fix/app/config.json"))
+ ("/home/jing/Documents/doc/report/Autocuts/autocut.tex" . 2389)
+ ("/home/jing/Workspace/Project/quadrilateral/app/run.sh" . 2)
+ ("/home/jing/Workspace/Project/quadrilateral/app/run-dev.sh" . 1947)
+ ("/home/jing/Workspace/Project/quadrilateral/app/run-dev2.sh" . 2094)
+ ("/home/jing/Workspace/Project/quadrilateral/app/quad.sh" . 1453)
+ ("/home/jing/Workspace/Project/ComputePlatform/app/hex/__init__.py" . 1325)
+ ("/home/jing/Workspace/Project/ComputePlatform/app/hybrid_quad/__init__.py" . 1765)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/thirdparty/predicates/predicates.cpp" . 30304)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/thirdparty/predicates/predicates.h" . 57)
+ ("/home/jing/Workspace/Project/ComputePlatform/nginx/dev.conf" . 129)
+ ("/home/jing/Workspace/Project/ComputePlatform/frontend/index.html" . 7046)
+ ("/home/jing/Workspace/Project/ComputePlatform/platform_app/users/services.py" . 2646)
+ ("/home/jing/Workspace/Project/ComputePlatform/app/helper.py" . 671)
+ ("/home/jing/Workspace/Project/vtk_color/src/fwrite.cpp" . 4890)
+ ("/home/jing/Workspace/Project/mesh_simplication/inc/half_edge.h" . 3721)
+ ("/home/jing/Documents/doc/pick_up/pick_up/pick_up.tex" . 7169)
+ ("/home/jing/Documents/doc/report/centroidal_voronoi_tessellation/centroidal_voronoi_tessellation.tex" . 1131)
+ ("/home/jing/usr/shell/new_beamer" . 135)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/src/mesh_lattice_id.cpp" . 215)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/doc/exact_mesh_generation.tex" . 21703)
+ ("/home/jing/Workspace/Project/ComputePlatform/frontend/js/index.js" . 938)
+ ("/home/jing/Workspace/Project/ComputePlatform/platform_app/worknet/service.py" . 2821)
+ ("/home/jing/Workspace/Project/ComputePlatform/app/hex/man_cn.html" . 459)
+ ("/home/jing/Workspace/Project/ComputePlatform/app/hex/man_en.html" . 407)
+ ("/home/jing/Workspace/Project/ComputePlatform/config.py" . 393)
+ ("/home/jing/Workspace/Project/ComputePlatform/platform_app/templates/result.html" . 16)
+ ("/home/jing/Workspace/Project/ComputePlatform/platform_app/users/views.py" . 1259)
+ ("/home/jing/Documents/doc/report/hex_web_app/hex.tex" . 1508)
+ ("/home/jing/Documents/doc/report/hex_for_shell/hex.tex" . 6697)
+ ("/etc/rc3.d/S01sslocal" . 328)
+ ("/home/jing/Workspace/Project/ComputePlatform/app/"
+  (dired-filename . "/home/jing/Workspace/Project/ComputePlatform/app/a_plus_b"))
+ ("/home/jing/Workspace/Project/ComputePlatform/app/hex/app/docker_makefile" . 3321)
+ ("/home/jing/Workspace/shell/general-polycube-bin/output/output.sh" . 370)
+ ("/home/jing/Workspace/Project/ComputePlatform/Readme.md" . 69)
+ ("/home/jing/.emacs.d/snippets/latex-mode/includefig" . 61)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/.gitignore" . 76)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/src/triangle.cpp" . 13955)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/src/mesh_cut.cpp" . 10829)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/build/"
+  (dired-filename . "/home/jing/Workspace/Project/exact_mesh_generation/build/bin"))
+ ("/home/jing/Workspace/Project/exact_mesh_generation/inc/ring.h" . 6788)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/src/loop.cpp" . 11579)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/inc/edge.h" . 533)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/src/ring.cpp" . 11581)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/src/loop_polygon.cpp" . 2213)
+ ("/home/jing/Workspace/shell/convert_test.sh" . 814)
+ ("/home/jing/Workspace/shell/convert.sh" . 14)
+ ("/home/jing/Workspace/shell/"
+  (dired-filename . "/home/jing/Workspace/shell/convert.sh"))
+ ("/home/jing/Workspace/Project/exact_mesh_generation/build/bin/"
+  (dired-filename . "/home/jing/Workspace/Project/exact_mesh_generation/build/bin/MAIN"))
+ ("/home/jing/Workspace/Project/exact_mesh_generation/src/vert.cpp" . 2522)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/inc/is_vert_inside_triangle_2d.h" . 505)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/src/write_to_file.cpp" . 2954)
+ ("/home/jing/Documents/doc/report/hex/hex.tex" . 7977)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/src/edge.cpp" . 931)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/src/edge_sort.cpp" . 5454)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/src/is_vert_inside_triangle_2d.cpp" . 566)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/inc/comp.inc" . 670)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/inc/write_to_file.h" . 272)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/inc/"
+  (dired-filename . "/home/jing/Workspace/Project/exact_mesh_generation/inc/edge.h"))
+ ("/home/jing/Workspace/Project/exact_mesh_generation/model/cube.obj" . 718)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/model/"
+  (dired-filename . "/home/jing/Workspace/Project/exact_mesh_generation/model/cube.obj"))
+ ("/home/jing/Workspace/Project/elmerfem/CMakeLists.txt" . 335)
+ ("/home/jing/.emacs.d/snippets/latex-mode/be" . 45)
+ ("/home/jing/Workspace/Project/mesh_generation_master/inc/fwrite.h" . 446)
+ ("/home/jing/Workspace/Project/mesh_generation_master/thirdparty/inc/tri_tri_intersection.h" . 376)
+ ("/home/jing/Workspace/Project/mesh_generation_master/thirdparty/src/tritri_isectline.c" . 1009)
+ ("/home/jing/Workspace/Project/mesh_generation_master/src/kd_tree.cpp" . 7904)
+ ("/home/jing/Workspace/Project/mesh_generation_master/src/main.cpp" . 1605)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/src/CMakeLists.txt" . 7)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/src/"
+  (dired-filename . "/home/jing/Workspace/Project/exact_mesh_generation/src/edge.cpp"))
+ ("/usr/include/c++/7/ext/new_allocator.h" . 3824)
+ ("/home/jing/Workspace/Project/mesh_generation_master/doc/mesh_generation.tex" . 250)
+ ("/home/jing/Workspace/Project/mesh_generation_master/doc/sig/mesh_generation.tex" . 8537)
+ ("/home/jing/Workspace/Project/vtk_color/src/fwrite_grid.cpp" . 1418)
+ ("/home/jing/Workspace/Project/mesh_generation_master/src/fwrite.cpp" . 4688)
+ ("/usr/include/c++/7/bits/stl_construct.h" . 4483)
+ ("/home/jing/Workspace/Project/exact_mesh_generation/CMakeLists.txt" . 78)
+ ("/usr/include/c++/7/bits/stl_vector.h" . 5200)
+ ("/home/jing/Workspace/Project/mesh_generation_master/src/cell_init.cpp" . 320)
+ ("/home/jing/Workspace/Project/mesh_generation_master/inc/mesh.h" . 1314)
+ ("/home/jing/Workspace/Project/mesh_generation_master/inc/geometry.h" . 759)
+ ("/home/jing/Workspace/Project/mesh_generation_master/src/boundary_cell_init_and_write.cpp" . 9926)
+ ("/home/jing/Workspace/Project/mesh_generation_master/src/boundary_cell_edge_sequence.cpp" . 2764)
+ ("/home/jing/Workspace/Project/mesh_generation_master/src/patch.cpp" . 4852)
+ ("/home/jing/Workspace/Project/mesh_generation_master/build/"
+  (dired-filename . "/home/jing/Workspace/Project/mesh_generation_master/build/bin")))

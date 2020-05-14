@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: ifnt
+# key: ifnt
+# --
+
+#ifndef ${1:HEAD_JJ_H}$0
+#define $1
+
+
+
+
+#endif // $1

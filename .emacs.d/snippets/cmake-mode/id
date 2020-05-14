@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: id
+# key: id
+# --
+INCLUDE_DIRECTORIES(${1:/usr/local/include})

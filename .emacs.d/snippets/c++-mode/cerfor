@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: cerfor
+# key: cerfor
+# --
+for_each(begin(${1:vec}), end($1),
+               [](auto &${2:itr})
+               {              
+                 cerr << ${3:itr} << " ";
+               });
+cerr << endl;

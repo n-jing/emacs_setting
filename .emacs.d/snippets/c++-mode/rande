@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: random_e
+# key: rande
+# --
+
+default_random_engine e;
+uniform_real_distribution<double> u(0, 1);

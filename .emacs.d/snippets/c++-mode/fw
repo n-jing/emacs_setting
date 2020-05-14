@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: fw
+# key: fw
+# --
+static int f_id = 1;
+string f_${1:v} = "$1_" + to_string(f_id) + "vtk";
+fwrite(${2:vec}, f_$1.c_str(), "vtk");
+++f_id;

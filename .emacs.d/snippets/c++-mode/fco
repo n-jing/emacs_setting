@@ -1,0 +1,21 @@
+# -*- mode: snippet -*-
+# name: fco
+# key: fco
+# --
+//*****************************************************************************
+//
+//! \brief Write one byte to special register
+//!
+//! This function is to write one byte to LIS302DL register,one byte will be
+//! writen in appointed address.
+//!
+//! \param RegAddr specifies the target register address.
+//! \param Data is the data written to target register.
+//!
+//! \return Indicate the status of operation which can be one of the following
+//! value \b SUCCESS or  \b FAILURE .
+//!
+//! \note This function is used by internal, user MUST NOT call it in your 
+//!  Application.
+//
+//*****************************************************************************

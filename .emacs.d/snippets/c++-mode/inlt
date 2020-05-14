@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: inlt
+# key: inlt
+# --
+#include "${0}.h"
