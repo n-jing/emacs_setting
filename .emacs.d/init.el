@@ -5,6 +5,7 @@
 (defconst *spell-check-support-enabled* nil) ;; Enable with t if you prefer
 (defconst *is-a-mac* (eq system-type 'darwin))
 
+(set-default-font "-DAMA-Ubuntu Mono-normal-normal-normal-*-19-*-*-*-m-0-iso10646-1")
 
 ;;----------------------------------------------------------------------------
 ;; Bootstrap config
@@ -21,10 +22,10 @@
 (add-to-list 'load-path "~/.emacs.d/elpa/neotree-0.5.2/")
 (require 'neotree)
 
-(add-to-list 'load-path "~/.emacs.d/elpa/helm-3.6.1")
-(require 'helm-config)
-(global-set-key (kbd "C-x C-f") 'helm-find-files)
-(global-set-key (kbd "M-x") 'helm-M-x)
+;; (add-to-list 'load-path "~/.emacs.d/elpa/helm-3.6.1")
+;; (require 'helm-config)
+;; (global-set-key (kbd "C-x C-f") 'helm-find-files)
+;; (global-set-key (kbd "M-x") 'helm-M-x)
 
 (add-to-list 'auto-mode-alist '("\\.h\\'" . c++-mode))
 (autoload 'cuda-mode "cuda-mode.el")
