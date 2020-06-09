@@ -68,6 +68,7 @@
 (setq slime-net-coding-system 'utf-8-unix)
 
 
+(setq ring-bell-function 'ignore)
 
 ;;set transparent effect
 (global-set-key [(f8)] 'loop-alpha)
