@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: cfl
+# key: cfl
+# --
+std::cerr << "\033[1;37m" << __FILE__ << "__________________" << __LINE__ << "\033[0m" << std::endl;

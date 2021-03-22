@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: clg
+# key: clg
+# --
+$1cerr << "[   \033[1;37mlog\033[0m   ] " << "${2:log in}$0" << $1endl;

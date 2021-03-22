@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: pwn
+# key: pwn
+# --
+printf("[ \033[1;35mwarning\033[0m ] warning in$0\n");

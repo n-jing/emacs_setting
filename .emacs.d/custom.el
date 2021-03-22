@@ -8,7 +8,7 @@
  '(custom-enabled-themes (quote (tango-dark)))
  '(package-selected-packages
    (quote
-    (yasnippet-snippets tabbar smex pos-tip plantuml-mode neotree ido-completing-read+ helm graphviz-dot-mode fuzzy exec-path-from-shell default-text-scale auto-complete-clang ac-math))))
+    (buffer-move yasnippet-snippets tabbar smex pos-tip plantuml-mode neotree ido-completing-read+ helm graphviz-dot-mode fuzzy exec-path-from-shell default-text-scale auto-complete-clang ac-math))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

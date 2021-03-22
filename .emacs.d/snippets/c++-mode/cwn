@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: cwn
+# key: cwn
+# --
+$1cerr << "[ \033[1;35mwarning\033[0m ] " << "${2:warning in}$0" << $1endl;

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: plg
+# key: plg
+# --
+printf("[   \033[1;37mlog\033[0m   ] log in$0\n");
