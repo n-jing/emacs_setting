@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: fort
+# key: fort
+# --
+
+for (${1:size_t} ${2:itr} = 0$0; $2 < ${3:3}; ++$2)
+{
+  
+}

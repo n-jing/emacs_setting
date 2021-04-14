@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: f11t
+# key: f11t
+# --
+
+for (auto ${1:itr} : ${2:vec})
+{
+  $0
+}

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ompn
+# key: ompn
+# --
+export OMP_NUM_THREADS=${1:1}

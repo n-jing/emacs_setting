@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ld
+# key: ld
+# --
+LINK_DIRECTORIES(${1:/usr/local/lib})

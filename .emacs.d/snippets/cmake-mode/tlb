@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tlb
+# key: tlb
+# --
+TARGET_LINK_LIBRARIES(${1:test} ${2:src})

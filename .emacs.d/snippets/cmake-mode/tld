@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tld
+# key: tld
+# --
+TARGET_LINK_DIRECTORIES(${1:test} PUBLIC \${CMAKE_SOURCE_DIR}/inc/$1)

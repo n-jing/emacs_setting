@@ -1,0 +1,128 @@
+./plot_cut_num.py 
+./plot_cut_num.py 
+./plot_cut_num.py 
+./plot_cut_num.py 
+./plot_cut_num.py 
+./plot_cut_num.py 
+./plot_cut_num.py 
+./plot_cut_num.py 
+./plot_cut_num.py 
+./plot_cut_num.py 
+./plot_cut_num.py 
+ls
+cd build/
+cmake ..
+make
+./bin/demo 
+cmake ..
+make
+./bin/demo 
+cmake ..
+make
+./bin/demo 
+cd ..
+ls
+cd src/
+ls
+grep -rn "class CutCellMesh"
+grep -rn "class CutCellMesh"
+grep -rn "class CutCellMesh"
+cd ..
+grep -rn "class CutCellMesh"
+grep -rn "class CutCellMesh"
+grep -rn "class CutCellMesh"
+ls
+grep -rn "struct CutCellMesh"
+grep -rn "write_obj("
+grep -rn "write_obj("
+grep -rn "void write_obj("
+ls
+./plot_cut_num.py 
+ls
+./plot_cut_num.py 
+./plot_cut_num.py 
+./plot_cut_num.py 
+./plot_cut_num.py 
+./plot_cut_num.py 
+cd ..
+grep -rn "几何工具"
+grep -rn "几何工具"
+grep -rn "几何库"
+grep -rn "exact predicts"
+chmod +x convert_to_vtk.sh
+ls
+cd build/
+cmake ..
+make
+./bin/demo 
+make
+./bin/demo 
+cmake ..
+make
+cmake ..
+make
+make
+cmake ..
+amke
+make
+make
+cmake ..
+amke
+make
+./bin/demo 
+cmake ..
+make
+make
+./bin/demo 
+make
+./bin/demo 
+hexo g
+hexo s
+hexo d
+hexo d
+grep -rn "struct cholmod_common"
+grep -rn "struct cholmod_common"
+grep -rn "struct cholmod_common"
+grep -rn "CHOLMOD_ZOMPLEX"
+grep -rn "struct cholmod_common"
+grep -rn "cholmod_l_rcond"
+grep -rn "cholmod_l_norm_dense"
+grep -rn "cholmod_l_sdmult"
+grep -rn "cholmod_l_transpose"
+grep -rn "cholmod_l_zeros"
+grep -rn "cholmod_l_analyze"
+grep -rn "cholmod_l_factorize_p"
+grep -rn "cholmod_l_solve"
+grep -rn "cholmod_l_read_sparse"
+cd ..
+grep -rn "cholmod_l_read_sparse"
+grep -rn "cholmod_read_sparse"
+grep -rn "cholmod_read_sparse"
+grep -rn "InstancedSphere.fs.glsl"
+grep -rn "InstancedSphere.fs.glsl"
+grep -rn "InstancedSphere.fs.glsl"
+grep -rn "class GLApp"
+grep -rn "class setDisplayFunction"
+grep -rn "class setDisplayFunction"
+grep -rn "class setDisplayFunction"
+grep -rn "setDisplayFunction"
+grep -rn "setDisplayFunction"
+grep -rn "setDisplayFunction"
+grep -rn "setDisplayFunction"
+grep -rn "setDisplayFunction"
+grep -rn "glDraw"
+grep -rn "display"
+grep -rn ".display"
+grep -rn ".display"
+grep -rn "\.display"
+grep -rn "display()"
+grep -rn "updateRenderingContext()"
+grep -rn "CudaVBOMapper"
+grep -rn "UpdateVertsData"
+grep -rn "UpdateVertsData"
+cd ..
+grep -rn "UpdateVertsData"
+grep -rn "fl;"
+grep -rn "fl;"
+grep -rn "fl;"
+grep -rn "fl ;"

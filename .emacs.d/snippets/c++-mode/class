@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: class template
+# key: classt
+# --
+
+class ${1:My}
+{
+public:
+  $1();
+  ~$1();
+
+private:
+	$0
+};

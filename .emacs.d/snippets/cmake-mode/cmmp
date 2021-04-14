@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: cmmp
+# key: cmmp
+# --
+set(CMAKE_MODULE_PATH "\${CMAKE_SOURCE_DIR}/${cmake};\${CMAKE_MODULE_PATH}")

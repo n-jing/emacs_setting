@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: ret0
+# key: ret0
+# --
+
+return 0;

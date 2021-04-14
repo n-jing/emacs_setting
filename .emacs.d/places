@@ -1,0 +1,31 @@
+;;; -*- coding: utf-8 -*-
+(("d:/win-setting/config/"
+  (dired-filename . "d:/win-setting/config/user_hot_hey.ahk"))
+ ("d:/emacs_setting/.emacs" . 3663)
+ ("c:/Users/jing.jiang/.emacs" . 1433)
+ ("d:/Notes/source/_posts/win-notes.md" . 3775)
+ ("c:/Users/jing.jiang/.emacs.d/custom.el" . 642)
+ ("e:/tmp/b.txt" . 7)
+ ("e:/tmp/a.txt" . 14)
+ ("d:/workspace/project/skindecompcpp/src/command/mainCmd.cpp" . 8350)
+ ("d:/workspace/project/skindecompcpp/CMakeLists.txt" . 229)
+ ("d:/workspace/project/skindecompcpp/src/command/"
+  (dired-filename . "d:/workspace/project/skindecompcpp/src/command/.."))
+ ("d:/workspace/project/skindecompcpp/src/"
+  (dired-filename . "d:/workspace/project/skindecompcpp/src/.."))
+ ("d:/workspace/project/skindecompcpp/"
+  (dired-filename . "d:/workspace/project/skindecompcpp/include"))
+ ("d:/workspace/project/skindecompcpp/include/"
+  (dired-filename . "d:/workspace/project/skindecompcpp/include/DemBones"))
+ ("d:/workspace/project/skindecompcpp/include/DemBones/"
+  (dired-filename . "d:/workspace/project/skindecompcpp/include/DemBones/DemBones.h"))
+ ("d:/workspace/project/skindecompcpp/include/DemBones/DemBones.h" . 27833)
+ ("d:/workspace/project/skindecompcpp/cmake/FindAlembic.cmake" . 619)
+ ("d:/workspace/project/skindecompcpp/cmake/FindEigen.cmake" . 115)
+ ("d:/workspace/project/skindecompcpp/build/CMakeLists.txt" . 605)
+ ("d:/workspace/project/skindecompcpp/cmake/Findilmbase.cmake" . 469)
+ ("d:/workspace/project/skindecompcpp/cmake/"
+  (dired-filename . "d:/workspace/project/skindecompcpp/cmake/FindAlembic.cmake"))
+ ("d:/workspace/project/skindecompcpp/build/DemBonesCmd.vcxproj" . 5958)
+ ("c:/Users/jing.jiang/.emacs.d/elpa/cmake-mode-3.20.0pre5/cmake-mode-autoloads.el" . 1704)
+ ("c:/Users/jing.jiang/.emacs.d/3rd/my.el" . 1881))

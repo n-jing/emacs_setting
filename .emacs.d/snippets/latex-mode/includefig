@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: includefig
+# key: includefig
+# --
+\usepackage{graphicx}
+\graphicspath{{./figs/}}
+\graphicspath{{./draw/}}
+\graphicspath{{./screen/}}
+\usepackage{subfigure}
+
+\usepackage{alphalph}
+\renewcommand*{\thesubfigure}{%
+\alphalph{\value{subfigure}}%
+}%

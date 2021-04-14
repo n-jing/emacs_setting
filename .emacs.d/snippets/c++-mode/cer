@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: cer
+# key: cer
+# --
+$1cerr << "[  \033[1;31merror\033[0m  ] " << "${2:error in}$0" << $1endl;

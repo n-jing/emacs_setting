@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: cmake
+# key: cmake
+# --
+SET(CMAKE_BUILD_TYPE "Debug")
+SET(CMAKE_CXX_FLAGS "-Wall -std=c++17")
+SET(CMAKE_CXX_FLAGS_DEBUG "-O0 -g")
+SET(CMAKE_CXX_FLAGS_RELEASE "-O2 -DNDEBUG")

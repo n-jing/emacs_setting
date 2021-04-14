@@ -1,0 +1,17 @@
+
+;; ----- smex-history -----
+(
+ shell
+ window-numbering-mode
+ cd
+ 5x5
+ arp
+ dbx
+ dig
+)
+
+;; ----- smex-data -----
+(
+ (window-numbering-mode . 1)
+ (shell . 1)
+)
