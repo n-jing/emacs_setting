@@ -20,19 +20,6 @@
 (tool-bar-mode 0)
 (scroll-bar-mode 0)
 
-;; (set-language-environment "utf-8")
-;; ;;(set-language-environment 'Chinese-GB)
-;; (set-keyboard-coding-system 'euc-cn)
-;; (set-clipboard-coding-system 'euc-cn)
-;; (set-terminal-coding-system 'euc-cn)
-;; (set-buffer-file-coding-system 'euc-cn)
-;; (set-selection-coding-system 'euc-cn)
-;; (prefer-coding-system 'euc-cn)
-;; (setq default-process-coding-system 'euc-cn)
-;; (setq-default pathname-coding-system 'euc-cn)
-
-
-
 (require 'package)
 (add-to-list 'package-archives
              '("melpa-stable" . "https://stable.melpa.org/packages/"))
