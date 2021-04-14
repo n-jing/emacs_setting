@@ -42,17 +42,13 @@
 (add-to-list 'load-path "~/.emacs.d/elpa/neotree-0.5.2/")
 (require 'neotree)
 
-;; (add-to-list 'load-path "~/.emacs.d/elpa/helm-3.6.1")
-;; (require 'helm-config)
-;; (global-set-key (kbd "C-x C-f") 'helm-find-files)
-;; (global-set-key (kbd "M-x") 'helm-M-x)
-
 (add-to-list 'auto-mode-alist '("\\.h\\'" . c++-mode))
 (autoload 'cuda-mode "cuda-mode.el")
 (add-to-list 'auto-mode-alist '("\\.cu\\'" . cuda-mode))
 (load "window-numbering.el")
 (window-numbering-mode 1)
 (load "my.el")
+
 (require 'buffer-move)
 (global-set-key (kbd "<C-S-up>")     'buf-move-up)
 (global-set-key (kbd "<C-S-down>")   'buf-move-down)
@@ -73,27 +69,6 @@
 ;; explicitly call 'package-initialize to set up all packages installed via ELPA.
 ;; should come before all package-related config files
 (require 'init-exec-path) ;; Set up $PATH
-
-;;----------------------------------------------------------------------------
-;; Load configs for specific features and modes
-;;----------------------------------------------------------------------------
-
-;; (require-package 'wgrep)
-;; (require-package 'project-local-variables)
-;; (require-package 'diminish)
-;; (require-package 'scratch)
-;; (require-package 'mwe-log-commands)
-
-;; (require 'init-frame-hooks)
-;; (require 'init-xterm)
-;; (require 'init-osx-keys)
-;; (require 'init-gui-frames)
-;; (require 'init-proxies)
-;;(require 'init-dired)
-;; (require 'init-isearch)
-;; (require 'init-uniquify)
-;; (require 'init-ibuffer)
-;; (require 'init-flycheck)
 
 (require 'init-recentf)
 (require 'init-ido)
@@ -128,35 +103,6 @@
 ;; (require 'init-haml)
 ;; (require 'init-python-mode)
 (require 'init-haskell)
-;; (require 'init-ruby-mode)
-;; (require 'init-rails)
-;; (require 'init-sql)
-
-;; (require 'init-paredit)
-;; (require 'init-lisp)
-;; (require 'init-slime)
-;; (require 'init-clojure)
-;; (when (>= emacs-major-version 24)
-;;   (require 'init-clojure-cider))
-;; (require 'init-common-lisp)
-
-;; (when *spell-check-support-enabled*
-;;   (require 'init-spelling))
-
-;; (require 'init-marmalade)
-;; (require 'init-misc)
-
-;; (require 'init-dash)
-;; (require 'init-ledger)
-;; ;; Extra packages which don't require any configuration
-
-;; (require-package 'gnuplot)
-;; (require-package 'lua-mode)
-;; (require-package 'htmlize)
-;; (require-package 'dsvn)
-;; (when *is-a-mac*
-;;   (require-package 'osx-location))
-;; (require-package 'regex-tool)
 
 (require 'init-themes)
 ;; ;;----------------------------------------------------------------------------
