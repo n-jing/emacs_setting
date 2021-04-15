@@ -50,6 +50,7 @@
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;package;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+(require 'guess-offset)
 (require 'init-utils)
 (require 'neotree)
 (require 'yasnippet)
