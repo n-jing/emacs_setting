@@ -7,3 +7,4 @@
 4. ```ctrl+x n n``` is shortcut for narrow-to-region, ```ctrl+x n w``` is shortcut for expaion.
 5. guess-offset calculates indent automaticly and is useful when reading code written by other people.
 6. buf-move-right(left) for swap buffer.
+7. set indent in init.el, it will not work in .emacs file.
