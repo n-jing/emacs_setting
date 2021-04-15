@@ -8,3 +8,4 @@
 5. guess-offset calculates indent automaticly and is useful when reading code written by other people.
 6. buf-move-right(left) for swap buffer.
 7. set indent in init.el, it will not work in .emacs file.
+8. indent setting, [please refer to](http://blog.lujun9972.win/emacs-document/blog/2018/08/17/emacs%E7%BC%A9%E8%BF%9B%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97-(%E5%88%B6%E8%A1%A8%E7%AC%A6%E5%92%8C%E7%A9%BA%E6%A0%BC)/index.html).

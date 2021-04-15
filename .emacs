@@ -49,16 +49,6 @@
 
 
 
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;indent setting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-(setq-default indent-tabs-mode nil)
-(setq-default tab-width 2)
-
-(setq-default indent-tabs-mode nil) ; tab 改为插入空格
-(setq c-basic-offset 2) ; c c++ 缩进4个空格
-(setq c-default-style "k&r"); 没有这个 { } 就会瞎搞
-(setq default-tab-width 2)
-
-
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;language setting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (set-locale-environment "English")
 (set-language-environment 'English)

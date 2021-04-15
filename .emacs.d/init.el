@@ -7,16 +7,33 @@
 (load "window-numbering.el")
 (window-numbering-mode 1)
 (load "my.el")
+(require 'guess-offset)
 
 (put 'narrow-to-page 'disabled nil)
 
 
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;hoop setting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;indent setting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;only change tab display width, 
+(setq-default tab-width 2)  
+(setq tab-width 2)
+
+
+;;;;;;;;;;;;;;;;;;;;; tab 4 width
+;; (setq-default indent-tabs-mode t)
+;; (setq-default tab-width 4)
+
+;;;;;;;;;;;;;;;;;;;;; tab to space with 2 width
+;; (setq-default indent-tabs-mode nil) ; tab 改为插入空格
+;; (setq c-basic-offset 2) ; c c++ 缩进4个空格
+;; (setq c-default-style "k&r"); 没有这个 { } 就会瞎搞
+;; (setq default-tab-width 2)
+
+
 (setq python-insert-encoding-magic-comment nil)
 (setq enh-python-add-encoding-comment-on-save nil)
 
-
-
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;hoop setting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (add-to-list 'auto-mode-alist '("m[M]akefile.*" . makefile-gmake-mode))
 
 (autoload 'glsl-mode "glsl-mode" nil t)
@@ -50,12 +67,10 @@
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;package;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-(require 'guess-offset)
 (require 'init-utils)
 (require 'neotree)
 (require 'yasnippet)
 (yas/global-mode 1)
-
 
 
 (require 'buffer-move)
