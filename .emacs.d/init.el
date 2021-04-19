@@ -19,6 +19,7 @@
 (setq tab-width 2)
 
 
+(c-set-offset 'substatement-open 0) ;; { } 不缩进
 ;;;;;;;;;;;;;;;;;;;;; tab 4 width
 ;; (setq-default indent-tabs-mode t)
 ;; (setq-default tab-width 4)
