@@ -47,7 +47,10 @@
  dotspacemacs-elpa-timeout 5 
  )
 
-
+;;;;;;;;;;set the line numbers to a fixed height
+(eval-after-load "linum"
+  '(set-face-attribute 'linum nil :height 100))
+(set-face-attribute 'linum-relative-current-face nil :height 100)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;language setting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (set-locale-environment "English")
