@@ -66,7 +66,8 @@
 (defconst *is-a-mac* (eq system-type 'darwin))
 
 
-
+(add-to-list 'auto-mode-alist '("\\.mel$" . mel-mode))
+(autoload 'mel-mode "mel-mode" nil t)
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;package;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (require 'init-utils)
 (require 'neotree)
